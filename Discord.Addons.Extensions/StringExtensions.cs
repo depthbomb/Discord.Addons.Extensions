@@ -188,7 +188,8 @@ public static class StringExtensions
     /// <param name="input">The string to format into a markdown code block.</param>
     /// <param name="language">The language of the code block (<c>md</c> by default).</param>
     public static string ToCodeBlock(this string input, string language = "md") => new StringBuilder().Append("```")
-                                                                                                      .AppendLine(input)
+                                                                                                      .AppendLine(language)
+                                                                                                      .Append(input)
                                                                                                       .Append("```")
                                                                                                       .ToString();
 

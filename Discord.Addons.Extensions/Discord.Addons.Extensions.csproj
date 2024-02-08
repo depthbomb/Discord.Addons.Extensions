@@ -5,19 +5,20 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>1.0.0.0</Version>
+        <Version>1.0.1.0</Version>
         <Title>Discord.Addons.Extensions</Title>
         <Authors>depthbomb</Authors>
         <Description>An unofficial library for Discord.Net that adds useful extensions.</Description>
         <Copyright>Copyright (c) 2024 Caprine Logic</Copyright>
         <PackageProjectUrl>https://github.com/depthbomb/Discord.Addons.Extensions</PackageProjectUrl>
         <RepositoryUrl>https://github.com/depthbomb/Discord.Addons.Extensions</RepositoryUrl>
-        <AssemblyVersion>1.0.0.0</AssemblyVersion>
-        <FileVersion>1.0.0.0</FileVersion>
+        <AssemblyVersion>1.0.1.*</AssemblyVersion>
+        <FileVersion>1.0.1.0</FileVersion>
         <NeutralLanguage>en</NeutralLanguage>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <RepositoryType>git</RepositoryType>
+        <Deterministic>false</Deterministic>
     </PropertyGroup>
 
     <ItemGroup>
