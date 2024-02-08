@@ -16,6 +16,7 @@
         <FileVersion>1.0.0.0</FileVersion>
         <NeutralLanguage>en</NeutralLanguage>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
         <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
