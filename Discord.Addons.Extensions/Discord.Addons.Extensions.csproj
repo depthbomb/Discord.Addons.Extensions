@@ -15,7 +15,7 @@
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
         <FileVersion>1.0.0.0</FileVersion>
         <NeutralLanguage>en</NeutralLanguage>
-        <PackageLicenseUrl>https://github.com/depthbomb/Discord.Addons.Extensions/blob/master/LICENSE</PackageLicenseUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
 
     <ItemGroup>
