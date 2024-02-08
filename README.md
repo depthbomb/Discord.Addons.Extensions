@@ -4,6 +4,12 @@ I was tired of copying and pasting common extensions I use between [Discord.Net]
 
 This is a still a work-in-progress but features are ready to use.
 
+<p>
+
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Discord.Addons.Extensions?style=for-the-badge&logo=nuget&cacheSeconds=600)](https://www.nuget.org/packages/Discord.Addons.Extensions)
+
+[![NuGet Version](https://img.shields.io/nuget/v/Discord.Addons.Extensions?style=for-the-badge&logo=nuget&cacheSeconds=600)](https://www.nuget.org/packages/Discord.Addons.Extensions)
+
 ---
 
 ### StringExtensions
